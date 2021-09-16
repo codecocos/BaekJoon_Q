@@ -1,0 +1,15 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "05.a+b.js",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon 05.a+b"
+  },
+  "author": "",
+  "license": "ISC"
+}
